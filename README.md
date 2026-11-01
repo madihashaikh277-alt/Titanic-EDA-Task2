@@ -35,7 +35,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset usi
 - The average ticket fare was approximately 32.20.
 
 ## Project File
-`Titanic_EDA_Task2.xlsx`
+`titanic_cleaned(2).xlsx`
 
 ## Conclusion
 This EDA project helped identify patterns in passenger survival based on gender, passenger class, age, and ticket fare using Microsoft Excel.# Titanic-EDA-Task2
