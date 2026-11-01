@@ -34,7 +34,7 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset usi
 - The average passenger age was approximately 29.36 years.
 - The average ticket fare was approximately 32.20.
 - Age information was available for 886 passengers in the age distribution analysis; 5 passengers had missing age values.
-
+- Age information was available for 886 passengers; 5 passengers had missing age values.
 ## Project File
 `titanic_cleaned (2).xlsx`
 
