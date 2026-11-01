@@ -29,15 +29,14 @@ This project performs Exploratory Data Analysis (EDA) on the Titanic dataset usi
 
 ## Key Findings
 - Out of 891 passengers, 342 survived.
-- Female passengers had a higher survival count than male passengers.
-- First-class passengers had the highest number of survivors.
+- Female passengers had a higher survival count (233) than male passengers (109).
+- First-class passengers had the highest number of survivors (136).
 - The average passenger age was approximately 29.36 years.
 - The average ticket fare was approximately 32.20.
- - Age information was available for 886 passengers in the age distribution analysis; 5 passengers had missing age values.
+- Age information was available for 886 passengers in the age distribution analysis; 5 passengers had missing age values.
 
 ## Project File
 `titanic_cleaned (2).xlsx`
 
 ## Conclusion
-This EDA project helped identify patterns in passenger survival based on gender, passenger class, age, and ticket fare using Microsoft Excel.# Titanic-EDA-Task2
-Exploratory Data Analysis (EDA) of the Titanic dataset using Microsoft Excel. Includes data summary, key findings, and five charts analyzing passenger survival, gender, passenger class, age, and ticket fare.
+This EDA project helped identify patterns in passenger survival based on gender, passenger class, age, and ticket fare using Microsoft Excel.
